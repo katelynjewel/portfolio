@@ -7,7 +7,7 @@ import TechStack from './TechStack';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <NavBar />
       <div className='sections'>
         <Headshot />
